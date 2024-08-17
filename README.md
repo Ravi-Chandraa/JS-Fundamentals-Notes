@@ -21,3 +21,4 @@ Chaining
 When a promise becomes settled, you can use some of its methods to do further action: .then(), .catch(), and .finally().
 555
 666
+888
