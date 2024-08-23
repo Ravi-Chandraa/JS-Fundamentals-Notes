@@ -19,7 +19,6 @@ new Promise((resolveOuter) => {
 });
 Chaining
 When a promise becomes settled, you can use some of its methods to do further action: .then(), .catch(), and .finally().
-555
-666
-888
-999
+
+
+.then() takes two arguments, the first one is a function to be called if the promise is fulfilled, and the second one is a function to be called if the promise is rejected.
